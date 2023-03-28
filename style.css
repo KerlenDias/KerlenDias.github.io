@@ -1,3 +1,73 @@
-.corpo {
-    background-color: green;
+#corpo {
+    background-color: black;
+}
+
+#titulo {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    font-size: 50px;
+    padding: 20px;
+    margin: 50px;
+}
+
+#img {
+    text-align: center;
+    margin: 50px;
+}
+
+#paragrafo {
+    text-align: center;
+    border: 9px solid black;
+    border-bottom: 1px;
+    color: aliceblue;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+#hab {
+    color: aliceblue;
+    font-size: 40px;
+    margin-left: 500px;
+}
+
+#lista {
+    color: aliceblue;
+    margin-left: 500px;
+}
+
+footer {
+    color: rgb(123, 147, 168);
+    text-align: center;
+    padding-top: 50px;
+}
+
+#titulo2 {
+    color: aliceblue;
+    margin-left: 500px;
+}
+
+#paragrafo2 {
+    color: aliceblue;
+    margin-left: 500px;
+}
+
+#rs {
+    text-align: center;
+    color: aliceblue;
+}
+
+#link1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+#link2 {
+    text-align: center;
+    color: aliceblue;
+}
+
+#link3 {
+    text-align: center;
+    color: aliceblue;
 }
