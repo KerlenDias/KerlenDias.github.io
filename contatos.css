@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    overflow-x: hidden;
+}
+
+header {
+    background-color: pink;
+    width: 100%;
+    height: 216px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 0 20px; 
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    margin: 0; 
+}
+
+h4 {
+    color: #FFF;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 5.88px;
+    margin: 0; 
+}
+
+.link-sem-estilo {
+    text-decoration: none; /* Remove sublinhado do link */
+    color: inherit; /* Herda a cor do texto pai (mantém a cor padrão do texto) */
+    cursor: pointer; /* Mostra um cursor de seta quando o mouse estiver sobre o link */
+}
